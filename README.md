@@ -1,3 +1,6 @@
 # CameraX-sample
-This is a google CameraXBase project Java Version   from:
-https://github.com/android/camera-samples/tree/master/CameraXBasic
+这是一个google官方示例程序的java版本
+This is a google CameraX tutorial project Java Version   from:
+https://codelabs.developers.google.com/codelabs/camerax-getting-started/#0
+
+
